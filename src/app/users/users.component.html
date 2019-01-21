@@ -1,0 +1,18 @@
+
+<div class="container">
+  <div class="login">
+     用户名： <input type="text" [(ngModel)]="username">
+     密码： <input type="password" [(ngModel)]="password">
+      <input type="button" (click)="login()" value="登陆">
+  </div>
+</div>
+
+
+<div class="list" *ngIf="show">
+  <ul>
+    <li *ngFor="let user of user">
+      id：{{user.id}}
+      用户名：{{user.username}}
+    </li>
+  </ul>
+</div>
