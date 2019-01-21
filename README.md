@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-![](E:\cz\3ziliao\anheng\anheng\src\assets\img\1.bmp)
+![](https://img04.sogoucdn.com/app/a/100520146/44F83598ABAB39012111D2E32337B1AF)
 
 ## Username：anheng
 
